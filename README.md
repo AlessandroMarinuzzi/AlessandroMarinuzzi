@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 
-I am Alessandro, a 27 y.o. Jr Full Stack Web Developer from Rome. I have just finished an intensive course at Boolean Careers and over the last 6 months I have tried my hand at using different front-end and back-end technologies, consolidating an effective learning method that has allowed me to approach the WEB in a professional way. 
+I am Alessandro, a 28 y.o. Jr Full Stack Web Developer from Rome. I have just finished an intensive course at Boolean Careers and over the last 6 months I have tried my hand at using different front-end and back-end technologies, consolidating an effective learning method that has allowed me to approach the WEB in a professional way. 
 <br>
 <br>
 For me, coding is a creative process and I would like to work my way in this sector to achieve full autonomy by virtue of personal and professional growth, so as to be able to achieve the much desired freedom to create something great that can improve people's quality of life.
